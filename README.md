@@ -9,7 +9,7 @@ const yjdev = {
 }
 
 ```
-You can find me on 👇
+You can find me on 👇:
 - [Twitter](https://twitter.com/YJDev_)
 - [Medium](https://yjdev.medium.com/)
 - [Linkedin](https://www.linkedin.com/in/yjdev)
