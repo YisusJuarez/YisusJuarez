@@ -1,4 +1,5 @@
 ![yjdev](https://github.com/YisusJuarez/YisusJuarez/blob/media/githubmedia/yjdev_profile.png)
+[![YJDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YisusJuarez)](https://github.com/YisusJuarez/github-readme-stats)
 ```js
 const yjdev = {
   superpower:"Front End Developer",
@@ -9,7 +10,7 @@ const yjdev = {
 }
 
 ```
-[![YJDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YisusJuarez)](https://github.com/YisusJuarez/github-readme-stats)
+
 
 You can find me on 👇:
 - [Twitter](https://twitter.com/YJDev_)
