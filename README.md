@@ -1,4 +1,3 @@
-## Hi, I'm Yisus 👋
 ![yjdev](https://github.com/YisusJuarez/YisusJuarez/blob/media/githubmedia/yjdev_profile.png)
 ```js
 const yjdev = {
@@ -10,6 +9,10 @@ const yjdev = {
 }
 
 ```
+You can find me on 👇
+- [Twitter](https://twitter.com/YJDev_)
+- [Medium](https://yjdev.medium.com/)
+- [Linkedin](https://www.linkedin.com/in/yjdev)
 <!--
 **YisusJuarez/YisusJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
