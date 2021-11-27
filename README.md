@@ -1,5 +1,5 @@
 ## Hi, I'm Yisus 👋
-![me]("https://user-images.githubusercontent.com/47866601/143665832-f5523224-5b09-4f18-84d6-aee26f568ffa.png")
+![yjdev](https://github.com/YisusJuarez/YisusJuarez/blob/media/githubmedia/header.png)
 ```js
 const yjdev = {
   superpower:"Front End Developer",
