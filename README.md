@@ -1,12 +1,10 @@
 ![yjdev](https://github.com/YisusJuarez/YisusJuarez/blob/media/githubmedia/yjdev_profile.png)
 [![YJDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=YisusJuarez)](https://github.com/YisusJuarez/github-readme-stats)
+
 ```js
 const yjdev = {
-  superpower:"Front End Developer",
-  level:"Mid",
-  code:["Javascript", "HTML", "CSS", "Python"],
-  tools:["React", "Vue", "Sass", "Nextjs", "Node"],
-  design:["UI", "UX", "Responsive Design"],
+  superpower:"Software Developer",
+  skills:["Python", "Javascript,¨Node¨,¨React¨,¨NextJs¨],
 }
 
 ```
